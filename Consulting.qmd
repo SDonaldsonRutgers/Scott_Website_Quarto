@@ -1,0 +1,57 @@
+---
+title: ""
+format: html
+page-layout: full
+toc: true
+---
+
+<img src="/images/logos/DMP.png" alt="Donaldson Measurement Partners Logo" style="width: 100%; max-width: 300px; display: block; margin: 0 auto 2em auto;"/>
+
+## 📌 About Us
+
+::: {.about-us-box style="background-color: #fff3e0; border-left: 6px solid #fb8c00; padding: 1em; border-radius: 6px;"}
+**Donaldson Measurement Partners** is a boutique consulting firm specializing in measurement and evaluation. We help individuals, teams, and organizations strengthen positive functioning and performance through evidence-based assessment and insight. Our team designs and validates psychometric tools and evaluation systems that produce credible, actionable data to drive positive organizational change.
+:::
+
+------------------------------------------------------------------------
+
+## 🧠 Core Services
+
+-   **Scale Development & Psychometric Validation**
+    -   Item writing, construct validation, factor analysis, measurement invariance
+-   **Program Evaluation**
+    -   Logic modeling, impact assessment, evaluation report writing
+-   **Data Analytics & Visualization**
+    -   R-based pipelines, dashboards, predictive analytics
+-   **Research Capacity Building**
+    -   Workshops, training, and coaching for teams and organizations
+
+------------------------------------------------------------------------
+
+## [🫱 Meet the Team](/Team/)
+
+------------------------------------------------------------------------
+
+## [📝 Publications](Publications.qmd)
+
+This curated portfolio showcases our evidence-based contributions to the literatures of psychometrics, evaluation, and positive organizational psychology.
+
+------------------------------------------------------------------------
+
+## [⚖️ Scale Library](Scales.qmd)
+
+Explore a collection of validated psychometric tools developed by Dr. Scott I. Donaldson and collaborators. These scales are designed to measure positive functioning across individuals, teams, and organizations. Free for research and education — with licensing available for commercial use.
+
+------------------------------------------------------------------------
+
+## 🌍 Our Partners
+
+We partner with mission-driven organizations, foundations, public health agencies, academic researchers, and technology companies who care about doing good—and doing it well.
+
+Our ongoing collaborations include work with [**The Michelle McQuaid Group**](https://www.michellemcquaid.com/){target="_blank"} and [***The Good Foundry***](https://www.the-good-foundry.com/){target="_blank"}.
+
+------------------------------------------------------------------------
+
+## [📬 Contact](Contact.qmd)
+
+Interested in working together? [Reach out here](mailto:scott.donaldson@rutgers.edu) or connect via the [Contact](Contact.qmd) page.

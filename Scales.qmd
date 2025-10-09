@@ -1,0 +1,57 @@
+---
+title: "Scale Library"
+format:
+  html:
+    toc: true
+    toc-title: "On this page"
+    toc-location: right
+    number-sections: false
+---
+
+The Donaldson Measurement Partners Scale Library provides access to validated psychometric tools developed by Dr. Scott I. Donaldson and collaborators. These instruments are free for non-commercial research and educational purposes. For commercial licensing, please contact \[scott.donaldson\@rutgers.edu\].
+
+------------------------------------------------------------------------
+
+## Positive Functioning at Work Scale 
+
+- **Purpose:** Measures workplace flourishing across nine PERMA+4 dimensions.  
+- **Length:** 29 items (3–4 items per domain).  
+- **Evidence:** Strong reliability (α = .76–.94); validated across industries; predictive of job performance and turnover intentions.  
+- **Use Cases:** Employee well-being surveys, organizational diagnostics, academic research.  
+
+[📄 Download the PF-W Scale and Guide](Scales/pfw.pdf){target="_blank"}
+
+---
+
+## PERMA+4 Short Scale 
+
+- **Purpose:** Provides a brief global assessment of workplace flourishing across the nine PERMA+4 domains.  
+- **Length:** 9 items (1 per domain).  
+- **Evidence:** Validated with item response theory (IRT); demonstrated cross-cultural invariance; predictive of job satisfaction and performance.  
+- **Use Cases:** Large-scale employee surveys, quick well-being assessments, applied research.  
+
+[📄 Download the PERMA+4 Short Scale and Guide](Scales/perma4_short.pdf){target="_blank"}
+
+
+---
+
+## Systems-Informed PERMA+4 Short Scales (Employee, Team, Supervisor)
+
+- **Purpose:** Extends the PERMA+4 framework to measure flourishing at three organizational levels: employee, team, and supervisor.  
+- **Length:** 9 items per version (27 total if all three are used).  
+- **Evidence:** Excellent model fit (CFI ≥ .995); strong reliability (α ≥ .89); predictive of adaptivity, proactivity, and proficiency.  
+- **Use Cases:** Multilevel organizational assessments, leadership evaluations, systems-informed interventions.  
+
+[📄 Download Systems-Informed PERMA+4 Scales and Guide](Scales/perma4_systems.pdf){target="_blank"}
+
+
+---
+
+## Global Economic Security Scale 
+
+- **Purpose:** Assesses economic security as a pillar of workplace flourishing, capturing budget management, savings, and future financial confidence.  
+- **Length:** 12 items (3 subscales: Budget, Savings, Future Security).  
+- **Evidence:** Strong factor structure (CFI = .959); high reliability (α = .85–.95); predictive of stress, turnover intentions, and affective well-being.  
+- **Use Cases:** Research on financial well-being, employee retention, economic security interventions.  
+
+[📄 Download the GES Scale and Guide](Scales/ges.pdf){target="_blank"}

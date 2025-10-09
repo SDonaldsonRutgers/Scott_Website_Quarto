@@ -1,0 +1,55 @@
+---
+title: "About"
+---
+
+::: {style="display: flex; align-items: center; gap: 2rem;"}
+::: {style="text-align: center;"}
+<img src="images/headshot.jpg" alt="Scott I. Donaldson" style="width: 240px; border-radius: 100px;"/>
+
+```{=html}
+<style>
+  .social-icons a {
+    color: #3366cc;
+    font-size: 1.75rem;
+    margin-right: 1.25rem;
+    transition: color 0.3s ease;
+  }
+  .social-icons a:hover {
+    color: #1a3c70;
+  }
+</style>
+
+<div class="social-icons" style="margin-top: 1rem;">
+  <a href="https://scholar.google.com/citations?user=ZkWaykcAAAAJ&hl=en" style="margin-right: 1rem;" title="Google Scholar" target="_blank">
+    <i class="fas fa-graduation-cap"></i>
+  </a>
+  <a href="https://github.com/SDonaldsonRutgers" style="margin-right: 1rem;" title="GitHub" target="_blank">
+    <i class="fab fa-github"></i>
+  </a>
+  <a href="https://www.linkedin.com/in/scott-donaldson-a031999b/" title="LinkedIn" target="_blank">
+    <i class="fab fa-linkedin"></i>
+  </a>
+</div>
+```
+:::
+
+<div>
+
+<h1>Dr. Scott I. Donaldson</h1>
+
+<p><strong>Assistant Professor of General Internal Medicine</strong><br> <a href="https://rwjms.rutgers.edu" target="_blank" style="color: black; text-decoration: underline;"> Rutgers Robert Wood Johnson Medical School </a></p>
+
+<a class="btn" href="uploads/resume.pdf" target="_blank" rel="noopener noreferrer" style="background-color: #d9534f; color: white; padding: 0.6rem 1.2rem; font-weight: 600; border-radius: 6px; text-decoration: none;"> 📄 Scott's CV </a>
+
+</div>
+:::
+
+::: {.about-text style="background: rgba(255,255,255,0.20); padding: 1.5rem; border-radius: 12px; font-size: 1.2rem; line-height: 1.8;"}
+# About Me
+
+Dr. Donaldson is an Assistant Professor of General Internal Medicine at the Rutgers Robert Wood Johnson Medical School and core faculty at the Rutgers Institute for Nicotine & Tobacco Studies. He also holds a secondary faculty appointment at the University of Connecticut in Research Methods, Measurement, and Evaluation.
+
+Dr. Donaldson’s work bridges evaluation, measurement, and health & well-being to advance research and practice. He develops and validates psychometric instruments, conducts meta-analyses, and applies rigorous methodologies to analyze digital data sources. His evaluation portfolio includes multi-year grants with the California Department of Public Health (CDPH) and the National Institutes of Health (NIH), focused on digital tobacco marketing surveillance and the impact of online exposures on adolescent risk behaviors. He also leads applied research and evaluation projects on health and well-being, including the impact of the PERMA+4 framework in occupational health settings.
+
+Dr. Donaldson's research has been published in leading biomedical journals, including JAMA Pediatrics and The Lancet, and featured by news and policy outlets, such as the World Health Organization, U.S. News & World Report, and the Federal Trade Commission.
+:::

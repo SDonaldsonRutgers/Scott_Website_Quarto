@@ -1,0 +1,13 @@
+---
+title: ""
+format: html
+page-layout: full
+---
+
+{{< include About.qmd >}}
+
+{{< include Interests.qmd >}}
+
+{{< include Featured.qmd >}}
+
+{{< include Media.qmd >}}

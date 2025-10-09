@@ -1,0 +1,24 @@
+---
+title: ""
+format: html
+page-layout: article
+toc: false
+---
+
+## 👥 Meet the Team
+
+### Scientists
+
+::: {style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap;"}
+<!-- Scott -->
+
+::: {style="text-align: center; max-width: 200px;"}
+<a href="scott.qmd"> <img src="/images/headshot.jpg" alt="Scott I. Donaldson" style="border-radius: 50%; width: 150px;"/> </a> <br> <a href="scott.qmd"><strong>Scott I. Donaldson</strong></a><br> Assistant Professor<br> Rutgers University
+:::
+
+<!-- Stewart -->
+
+::: {style="text-align: center; max-width: 200px;"}
+<a href="stewart.qmd"> <img src="/images/stewart.jpg" alt="Stewart I. Donaldson" style="border-radius: 50%; width: 150px;"/> </a> <br> <a href="stewart.qmd"><strong>Stewart I. Donaldson</strong></a><br> Distinguished Professor<br> Claremont Graduate University
+:::
+:::

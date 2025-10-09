@@ -1,0 +1,31 @@
+---
+title: ""
+---
+
+::: {style="display: flex; gap: 3rem; justify-content: space-between;"}
+::: interests-edu
+### Interests
+
+-   Evaluation\
+-   Measurement\
+-   Health\
+-   Well-being\
+-   Social media\
+:::
+
+::: interests-edu
+### Education
+
+🎓 **Postdoctoral Scholar in Evaluation, Statistics, and Measurement**, 2021\
+University of California, San Diego
+
+🎓 **PhD in Evaluation and Applied Research Methods**, 2020\
+Claremont Graduate University
+
+🎓 **MS in Applied Psychology**, 2015\
+University of Southern California
+
+🎓 **BA in Psychology**, 2014\
+University of California, Los Angeles
+:::
+:::

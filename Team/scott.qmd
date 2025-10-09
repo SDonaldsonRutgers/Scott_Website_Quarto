@@ -1,0 +1,11 @@
+---
+title: "Scott I. Donaldson"
+format: html
+page-layout: article
+---
+
+![](/images/headshot.jpg){width="150px" align="left"}
+
+<a href="/" style="display:inline-block; padding:8px 16px; background-color:#004080; color:white; border-radius:6px; text-decoration:none;">← Back to Home</a>
+
+

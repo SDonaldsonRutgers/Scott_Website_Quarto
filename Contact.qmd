@@ -1,0 +1,40 @@
+---
+title: ""
+format:
+  html:
+    toc: false
+---
+
+# 📬 Contact
+
+I'd love to hear from you. For inquiries related to consulting, research collaborations, media, or scale licensing, please reach out using the information below.
+
+------------------------------------------------------------------------
+
+## 📧 Email
+
+-   **Dr. Scott I. Donaldson**\
+    [scott.donaldson\@rutgers.edu](mailto:scott.donaldson@rutgers.edu)
+
+------------------------------------------------------------------------
+
+## 💼 Business Inquiries
+
+For professional consulting, psychometric validation projects, or partnerships, please include: - Your organization name and contact information\
+- A brief description of your project or area of interest\
+- Desired timeline or scope of work
+
+------------------------------------------------------------------------
+
+## 🌐 Social & Professional Links
+
+-   [LinkedIn](https://www.linkedin.com/in/scott-donaldson-a031999b/){target="_blank"}\
+-   [Google Scholar](https://scholar.google.com/citations?user=ZkWaykcAAAAJ&hl=en){target="_blank"}\
+
+------------------------------------------------------------------------
+
+<p style="font-size:0.9rem; color:#555; margin-top:1rem;">
+
+For student inquiries or research collaboration requests, please include a short description of your background, research interests, and proposed area of contribution.
+
+</p>
