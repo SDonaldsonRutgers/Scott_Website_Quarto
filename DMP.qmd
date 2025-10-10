@@ -10,7 +10,7 @@ toc: true
 ## 📌 About Us
 
 ::: {.about-us-box style="background-color: #fff3e0; border-left: 6px solid #fb8c00; padding: 1em; border-radius: 6px;"}
-**Donaldson Measurement Partners** is a boutique consulting firm specializing in measurement and evaluation. We help individuals, teams, and organizations strengthen positive functioning and performance through evidence-based assessment and insight. Our team designs and validates psychometric tools and evaluation systems that produce credible, actionable data to drive positive organizational change.
+**Donaldson Measurement Partners** is a boutique consulting firm specializing in measurement and evaluation. We help individuals, teams, and organizations strengthen their positive functioning and performance through evidence-based assessment and insight. Our team designs and validates psychometric tools and evaluation systems that produce credible, actionable data to drive positive organizational change.
 :::
 
 ------------------------------------------------------------------------

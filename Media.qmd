@@ -5,7 +5,7 @@ page-layout: article
 ---
 
 ::: media-box
-## Select Media and Policy Coverage
+## Select Media Coverage
 
 <!-- USC Keck (July 12, 2022) -->
 
@@ -30,6 +30,4 @@ page-layout: article
 
 </p>
 :::
-
-
 :::
