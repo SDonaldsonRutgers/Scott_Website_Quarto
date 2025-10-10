@@ -11,7 +11,7 @@ website:
         text: Research
       - href: Teaching.qmd
         text: Teaching
-      - href: Consulting.qmd
+      - href: DMP.qmd
         text: Donaldson Measurement Partners
       - href: Contact.qmd
         text: Contact 
