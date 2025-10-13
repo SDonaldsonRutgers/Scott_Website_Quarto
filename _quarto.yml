@@ -1,8 +1,14 @@
 project:
   type: website
+  output-dir: _site
+  resources:
+    - sitemap.xml
 
 website:
   title: "Scott I. Donaldson, PhD"
+  site-url: https://www.scottdonaldsonphd.com
+  description: "Official website of Dr. Scott I. Donaldson"
+  google-analytics: "G-66J1CSNLDK"
   navbar:
     left:
       - href: index.qmd
