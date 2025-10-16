@@ -8,6 +8,12 @@ page-layout: full
 
 ## 2025
 
+**Development and Validation of the Global Economic Security Scale**\
+Donaldson, S. I., Suchta, M., & Donaldson, S. I.\
+![IJAPP Logo](/images/logos/ijapp.jpg){width="70px" style="vertical-align: middle; margin-right: 5px;"} *International Journal of Applied Positive Psychology*  
+
+[🔗 **DOI**](https://doi.org/10.1007/s41042-025-00261-x){target="_blank"}
+
 **PERMA+4 Well-being Predicts the Future: Longitudinal Evidence for Employee Positive Functioning and Performance**\
 Donaldson, S. I., Suchta, M., Donaldson, S. I.\
 ![JPP Logo](/images/logos/jpp.jpeg){width="70px" style="vertical-align: middle; margin-right: 5px;"} *The Journal of Positive Psychology*
