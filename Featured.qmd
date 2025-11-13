@@ -9,14 +9,27 @@ page-layout: full
 
 <!-- Lancet Public Health Meta-Analysis -->
 
-::: {.media-item style="background: white; padding: 1rem; border-radius: 10px; margin-bottom: 1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.05);"}
-<a href="#" target="_blank" style="display: flex; align-items: flex-start; gap: 0.75rem; text-decoration: none;"> <img src="images/logos/Lancet_PH.jpg" alt="The Lancet Public Health" style="height: 80px; min-width: 80px; border-radius: 6px;"/> [Association Between Exposure to Digital Alcohol Marketing and Alcohol Use: A Systematic Review and Meta-analysis]{style="font-weight: 600; font-size: 1.1rem; color: #003366;"} </a>
+::: {.media-item style="background: white; padding: 1rem; border-radius: 10px; 
+margin-bottom: 1rem; box-shadow: 0 2px 5px rgba(0,0,0,0.05);"}
+
+<a href="https://thelancet.com/journals/lanpub/article/PIIS2468-2667(25)00219-1/fulltext" 
+   target="_blank"
+   style="display: flex; align-items: flex-start; gap: 0.75rem; text-decoration: none;">
+
+<img src="images/logos/Lancet_PH.jpg" 
+     alt="The Lancet Public Health"
+     style="height: 80px; min-width: 80px; border-radius: 6px;"/>
+
+<span style="font-weight: 600; font-size: 1.1rem; color: #003366;">
+Association Between Exposure to Digital Alcohol Marketing and Alcohol Use: A Systematic Review and Meta-analysis
+</span>
+
+</a>
 
 <p style="margin: 0.5rem 0 0; font-size: 0.9rem; color: #555;">
-
-<i class="fas fa-calendar-alt"></i> \[In Press, 2025\]
-
+<i class="fas fa-calendar-alt"></i> November 2025
 </p>
+
 :::
 
 <!-- JAMA Pediatrics Meta-Analysis -->
