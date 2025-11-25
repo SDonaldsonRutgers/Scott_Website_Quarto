@@ -8,6 +8,12 @@ page-layout: full
 
 ## 2025
 
+**The Power of Self-Compassion and PERMA+4: A Dual-Path Model for Employee Flourishing**\
+Donaldson, S. I., Kern, M. L., Suchta, M., McQuaid, M., & Donaldson, S. I.\
+![BS Logo](/images/logos/behavsci.jpg){width="70px" style="vertical-align: middle; margin-right: 5px;"} *Behavioral Sciences*
+
+[🔗 **DOI**](https://doi.org/10.3390/bs15121620){target="_blank"}
+
 **Development and Validation of the Global Economic Security Scale**\
 Donaldson, S. I., Suchta, M., & Donaldson, S. I.\
 ![IJAPP Logo](/images/logos/ijapp.jpg){width="70px" style="vertical-align: middle; margin-right: 5px;"} *International Journal of Applied Positive Psychology*
