@@ -39,7 +39,7 @@ title: "About"
 
 <p><strong>Assistant Professor of General Internal Medicine</strong><br> <a href="https://rwjms.rutgers.edu" target="_blank" style="color: black; text-decoration: underline;"> Rutgers Robert Wood Johnson Medical School </a></p>
 
-<a class="btn" href="uploads/resume_01.06.26.pdf" target="_blank" rel="noopener noreferrer" style="background-color: #d9534f; color: white; padding: 0.6rem 1.2rem; font-weight: 600; border-radius: 6px; text-decoration: none;"> 📄 Scott's CV </a>
+<a class="btn" href="uploads/resume.pdf" target="_blank" rel="noopener noreferrer" style="background-color: #d9534f; color: white; padding: 0.6rem 1.2rem; font-weight: 600; border-radius: 6px; text-decoration: none;"> 📄 Scott's CV </a>
 
 </div>
 :::
